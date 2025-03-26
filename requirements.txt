@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+pandas
+numpy
+scikit-learn
+openpyxl
+keras
+openpyxl
+gspread
+oauth2client
